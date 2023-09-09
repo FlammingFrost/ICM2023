@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-09-09T09:14:05.695366",
+    "startedAt": "2023-09-09T09:14:04.577014",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/FlammingFrost/ICM2023.git",
+        "commit": "9a9735cf6a88e320158ffeb80ddac162df40e01b"
+    },
+    "email": "404715016@qq.com",
+    "root": "E:/Project/2023-09-08 ICM",
+    "host": "NTS-DDF",
+    "username": "1",
+    "executable": "e:\\Program\\anaconda\\envs\\dl_env\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 3500.0,
+        "min": 0.0,
+        "max": 3500.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3500.0,
+            "min": 0.0,
+            "max": 3500.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 803.8154258728027,
+            "used": 35.86195755004883
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4070",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4070",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 31.842201232910156
+    }
+}
