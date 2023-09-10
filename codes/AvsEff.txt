@@ -1,0 +1,1240 @@
+h: 6.0 w: 6.0
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(53449.0110, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.9787, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(55428.6040, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.9787, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(57408.1970, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.9787, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(59387.7900, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.9787, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(61367.3830, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.9787, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(63332.3949, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.9702, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(65069.5465, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.8332, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(66587.3649, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.5838, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(67962.7429, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(36.2726, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.0 w: 8.0
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(69233.7934, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.9246, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 6.0
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(53206.1214, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4960, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(55176.7185, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4960, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(57147.3155, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4960, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(59117.9126, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4960, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(61088.5097, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4960, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(63045.6454, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4884, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(64783.4531, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.3616, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(66302.7554, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.1264, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(67680.1646, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.8317, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.222222222222222 w: 8.0
+Shape of input: torch.Size([60, 3])
+Before trainning:
+E_field: tensor(68954.1043, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.5016, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(55514.7293, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.7590, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(57570.8304, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.7590, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(59626.9314, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.7590, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(61683.0325, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.7590, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(63739.1336, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.7590, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(65781.6322, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.7517, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(67601.0902, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.6272, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(69196.6877, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.3955, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(70646.8137, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.1048, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.444444444444445 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        ...,
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429],
+        [0.9429, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9429]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(71990.8809, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.7790, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(56887.1033, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4216, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(58994.0330, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4216, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(61100.9628, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4216, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(63207.8925, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4216, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(65314.8223, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4216, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(67407.9235, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.4143, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(69273.5912, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.2917, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(70910.0932, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.0629, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(72397.6715, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.7756, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.666666666666667 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        ...,
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345],
+        [0.9345, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9345]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(73776.6449, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.4536, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(58121.3736, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.0227, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(60274.0171, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.0227, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(62426.6606, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.0227, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(64579.3041, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.0227, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(66731.9475, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.0227, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(68870.5381, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(35.0156, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(70777.5036, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.8947, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(72450.6245, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.6690, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(73971.8365, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.3856, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 6.888888888888889 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9257],
+        ...,
+        [0.9257, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257],
+        [0.9257, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9257]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(75382.2088, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.0678, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(59188.5468, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.5512, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(61380.7152, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.5512, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(63572.8836, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.5512, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(65765.0520, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.5512, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(67957.2204, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.5512, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(70135.1307, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.5442, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(72077.6596, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.4252, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(73782.6062, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(34.2030, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(75333.1564, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.9240, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.111111111111111 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 0.9987, 1.0000, 0.9165],
+        ...,
+        [0.9165, 1.0000, 1.0000,  ..., 0.9990, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165],
+        [0.9165, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9165]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(76770.9645, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.6112, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(60054.8249, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.9946, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(62279.0777, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.9946, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(64503.3305, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.9946, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(66727.5832, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.9946, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(68951.8360, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.9946, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(71161.6453, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.9877, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(73132.8621, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.8707, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(74863.8178, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.6526, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(76438.5313, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.3787, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.333333333333333 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9998, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9968, 0.9997, 0.9068],
+        ...,
+        [0.9068, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 0.9999, 1.0000, 0.9068],
+        [0.9068, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.9068]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(77899.0105, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.0716, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(60672.1804, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.3339, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(62919.2982, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.3339, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(65166.4160, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.3339, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(67413.5338, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.3339, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(69660.6516, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.3339, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(71893.1605, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.3271, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(73884.7633, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(33.2125, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(75634.6686, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.9991, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(77227.1562, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.7312, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.555555555555555 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9989, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9943, 0.9979, 0.8966],
+        ...,
+        [0.8966, 1.0000, 1.0000,  ..., 0.9949, 0.9984, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 0.9992, 1.0000, 0.8966],
+        [0.8966, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8966]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(78704.4068, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.4308, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(60966.9304, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.5388, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(63224.9649, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.5388, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(65482.9994, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.5388, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(67741.0338, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.5388, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(69999.0683, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.5388, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(72242.3657, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.5322, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(74243.8994, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.4204, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(76003.6359, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(32.2127, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(77605.6086, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.9519, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 7.777777777777778 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9973, 0.9999, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 0.9912, 0.9946, 0.8861],
+        ...,
+        [0.8861, 1.0000, 1.0000,  ..., 0.9920, 0.9954, 0.8861],
+        [0.8861, 1.0000, 0.9998,  ..., 0.9977, 1.0000, 0.8861],
+        [0.8861, 1.0000, 1.0000,  ..., 1.0000, 1.0000, 0.8861]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(79091.9657, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.6593, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 6.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(60832.1553, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.5650, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 6.222222222222222
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(63085.1981, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.5650, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 6.444444444444445
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(65338.2409, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.5650, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 6.666666666666667
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(67591.2837, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.5650, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 6.888888888888889
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(69844.3265, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.5650, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 7.111111111111111
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(72082.6527, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.5586, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 7.333333333333333
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(74080.5384, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.4505, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 7.555555555555555
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(75838.1232, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(31.2497, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 7.777777777777778
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(77438.6824, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(30.9975, dtype=torch.float64, grad_fn=<DivBackward0>)
+h: 8.0 w: 8.0
+Shape of input: torch.Size([60, 3])
+eta_sb: tensor([[0.8751, 1.0000, 1.0000,  ..., 0.9993, 1.0000, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9950, 0.9986, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9877, 0.9894, 0.8751],
+        ...,
+        [0.8751, 1.0000, 1.0000,  ..., 0.9886, 0.9906, 0.8751],
+        [0.8751, 1.0000, 0.9989,  ..., 0.9955, 0.9989, 0.8751],
+        [0.8751, 1.0000, 1.0000,  ..., 0.9989, 0.9996, 0.8751]],
+       dtype=torch.float64, grad_fn=<IndexPutBackward0>)
+Before trainning:
+E_field: tensor(78924.0611, dtype=torch.float64, grad_fn=<DivBackward0>)
+penalty: 0
+Avg_E: tensor(30.7145, dtype=torch.float64, grad_fn=<DivBackward0>)

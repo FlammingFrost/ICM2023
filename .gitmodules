@@ -1,3 +1,6 @@
 [submodule "CUMCM_LaTeX_Template"]
 	path = CUMCM_LaTeX_Template
 	url = https://github.com/personqianduixue/CUMCM_LaTeX_Template
+[submodule "Pytorch-Memory-Utils"]
+	path = Pytorch-Memory-Utils
+	url = https://github.com/Oldpan/Pytorch-Memory-Utils.git
